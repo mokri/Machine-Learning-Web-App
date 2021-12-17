@@ -1,10 +1,10 @@
-#Machine Learning web App
+# Machine Learning web App
 
-This is a a machi9ne learning web application for binary classification using streamlit
+This is a machine learning web application for binary classification using streamlit
 
-##options
+## options
 
-######this application contains 3 classifiers:
+###### this application contains 3 classifiers:
 
 - SVM (Support Vector Machine)
 - Logistic Regression
@@ -15,8 +15,8 @@ This is a a machi9ne learning web application for binary classification using st
  - kernels (rbf, linear)
  - Kernel Coefficient
  
- ##Plots:
- #####3 types of plots:
+ ## Plots:
+ ##### 3 types of plots:
  - Confusion Matrix
  - ROC Curve
  - Precision Recall Curve
@@ -38,7 +38,7 @@ pip install -U scikit-learn
 pip install pandas
 ```
 
-####run using
+#### run using
 ```
 streamlit run main.py
 ```

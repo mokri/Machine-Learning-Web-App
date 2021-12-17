@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "This is a a machi9ne learning web application for binary classification using streamlit",
+  "main": "main.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mokri abdelhak",
+  "license": "ISC"
+}
